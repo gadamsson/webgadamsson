@@ -1,0 +1,24 @@
+enable  : true
+title   : WHAT DO WE OFFER?
+subtitle: >
+  We have a lot of experience in CET Extension development. The following list shows a subset of what we can do.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Full Scale Implementations of CET Extensions
+    description : >
+      We have experience from several successful full scale implementations of CET Extensions.
+
+  - icon  : ion-ios-keypad-outline
+    title : Expert Resources to Your CET Projects
+    description : >
+      Include us in your ongoing CET project as experts to step up quality.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : Training and Mentorship of Your CET Programmers
+    description : >
+      Let us train and mentor your own programmers and share our experience. We have over 2 years of experience as a CET Developer Trainers.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Other Solutions
+    description : >
+      Contact us and explain what you want to do and we are sure that we can find a solution together.
