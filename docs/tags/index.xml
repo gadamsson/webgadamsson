@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on G. Adamsson</title>
-    <link>https://gadamsson.com/tags/</link>
+    <link>https://gadamsson.github.io/webgadamsson/tags/</link>
     <description>Recent content in Tags on G. Adamsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
     
-	<atom:link href="https://gadamsson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gadamsson.github.io/webgadamsson/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business</title>
-      <link>https://gadamsson.com/tags/business/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/business/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/business/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inspiration</title>
-      <link>https://gadamsson.com/tags/inspiration/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/inspiration/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/inspiration/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>https://gadamsson.com/tags/internet/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/internet/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/internet/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>https://gadamsson.com/tags/motivation/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/motivation/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/motivation/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://gadamsson.com/tags/people/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/people/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://gadamsson.com/tags/tech/</link>
+      <link>https://gadamsson.github.io/webgadamsson/tags/tech/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>https://gadamsson.com/tags/tech/</guid>
+      <guid>https://gadamsson.github.io/webgadamsson/tags/tech/</guid>
       <description></description>
     </item>
     
