@@ -40,8 +40,8 @@ publishDir = "docs"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "We can deliver what you need to your space planning solution"
-        description = "With many years of experience in the CET Designer platform"
+        heading = "We deliver"
+        description = "With many years of experience of Space Planning in the CET Designer platform"
         btn     = false
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
@@ -56,14 +56,14 @@ publishDir = "docs"
     [params.about]
         enable  = true
         title   = "ABOUT THE COMPANY"
-        content = "The company was founded 2018, by Gustav Adamsson in Linköping, Sweden. Starting up the company Gustav had many years of experience working as a Project Manager & Programmer in the CET Designer platform."
+        content = "The company was founded 2018, by Gustav Adamsson in Linköping, Sweden. Starting up the company Gustav had many years of experience working as a Project Manager, Programmer & CET Developer Trainer at Configura."
         image   = "images/about/about.jpg"
 
     # Call to Action
     [params.cta]
         enable  = true
         title   = "SO WHAT YOU THINK?"
-        content = "We are always open for discussing opportunities.\nContact us at gustav@gadamsson.com or click the button below if you want to know more."
+        content = "We are always open for discussing opportunities."
         btnText = "Contact us"
         btnURL  = "/contact"
 
