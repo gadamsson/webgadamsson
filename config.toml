@@ -1,4 +1,4 @@
-baseURL = "https://gadamsson.github.io/gadamssonweb/"
+baseURL = "https://gadamsson.github.io/webgadamsson/"
 languageCode = "en-us"
 title = "G. Adamsson"
 theme = "timer-hugo"
